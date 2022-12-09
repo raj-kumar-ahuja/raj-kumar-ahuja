@@ -1,3 +1,3 @@
 ### Raj Ahuja 👋
 
-![visual](https://noahgift.com/img/noah_gift_visual_resume.jpg)
+![visual](https://github.com/raj-kumar-ahuja/raj-kumar-ahuja/blob/main/images/visual_resume.JPG)
